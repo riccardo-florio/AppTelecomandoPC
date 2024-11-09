@@ -1,6 +1,6 @@
 # AppTelecomandoPC
 
-Applicazione mobile Flutter che consente di controllare da remoto un PC Windows attraverso la rete locale. Questa app funziona in combinazione con [ServerTelecomando](https://github.com/riccardo-florio/ServerTelecomandoPC), l'applicazione server da installare sul PC.
+Applicazione mobile Flutter che consente di controllare da remoto un PC Windows attraverso la rete locale. Questa app funziona in combinazione con [ServerTelecomandoPC](https://github.com/riccardo-florio/PCPC), l'applicazione server da installare sul PC.
 
 ## Funzionalità
 
@@ -28,7 +28,7 @@ Applicazione mobile Flutter che consente di controllare da remoto un PC Windows 
 
 3. **Configurazione del Server**
 
-   - Scarica e avvia [ServerTelecomando](https://github.com/riccardo-florio/ServerTelecomandoPC/releases) sul tuo PC Windows.
+   - Scarica e avvia [ServerTelecomandoPC](https://github.com/riccardo-florio/ServerTelecomandoPC/releases) sul tuo PC Windows.
    - Assicurati che il firewall del PC permetta le connessioni in entrata sulla porta utilizzata dall'applicazione.
 
 ## Utilizzo
@@ -36,7 +36,6 @@ Applicazione mobile Flutter che consente di controllare da remoto un PC Windows 
 1. **Avvia l'app "telecomando"** sul tuo dispositivo mobile.
 2. **Attendi la Scoperta del Server**: L'app cercherà automaticamente il server sulla rete locale.
 3. **Controlla il PC**: Utilizza l'interfaccia dell'app per inviare comandi al PC.
-
 
 ## Sviluppo
 

@@ -73,7 +73,7 @@ Assicurati di avere Flutter installato sul tuo sistema. Segui le istruzioni uffi
    flutter run
    ```
 
-    oppure
+    oppure crea l'APK:
 
     ```shell
     flutter build apk --release

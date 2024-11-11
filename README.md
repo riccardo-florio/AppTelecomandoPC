@@ -73,6 +73,12 @@ Assicurati di avere Flutter installato sul tuo sistema. Segui le istruzioni uffi
    flutter run
    ```
 
+    oppure
+
+    ```shell
+    flutter build apk --release
+    ```
+
 ### Aggiornare l'icona dell'app
 
 Per personalizzare l'icona dell'app, segui questo [Tutorial](https://www.youtube.com/watch?v=oRBWPm7nCV0).
